@@ -1,0 +1,327 @@
+.header{
+    position: fixed;
+    background-color:rgb(20, 17, 17);
+    margin: -8px;
+    padding: 0;
+    
+}
+.logo{
+
+
+}
+.button1{
+    font-family: montserrat,sans-serif;
+    border: transparent;
+    color: white;
+    background-color: transparent;
+    font-size: 19px;
+    padding-right: 23px;
+}
+.button2{
+    border: transparent;
+    color: white;
+    background-color: transparent;
+    font-size: 19px;
+    padding-right: 23px;
+
+}
+.button3{
+    border: transparent;
+    color: white;
+    background-color: transparent;
+    font-size: 19px;
+    padding-right: 23px;
+
+}
+.button4{
+    border: transparent;
+    color: white;
+    background-color: transparent;
+    font-size: 19px;
+    padding-right: 23px;
+
+}
+.button5{
+    border: transparent;
+    color: white;
+    background-color: transparent;
+    font-size: 19px;
+    padding-right: 23px;
+
+}
+.button6{
+    border: transparent;
+    color: white;
+    background-color: transparent;
+    font-size: 18px;
+    padding-right: 23px;
+}
+.button7{
+    border: transparent;
+    color: white;
+    background-color: transparent;
+    font-size: 18px;
+    padding-right: 23px;
+}
+.button8{
+    border: transparent;
+    color: white;
+    background-color: transparent;
+    padding-right: 23px;
+    font-size: 18px;
+}
+.button9{
+    border: transparent;
+    color: white;
+    background-color: black;
+    font-size: 18px;
+    padding-right: 23px;
+}
+.image1{
+    display: flex;
+    width: 1474px;
+}
+.header2{
+    background-color: rgb(74, 70, 70);
+    margin: -42px;
+    padding-bottom: 13px;
+    width: 1507px;
+}
+.suvb{
+    font-size: 26px;
+    font-weight: normal;
+    color: white;
+    background-color: transparent;
+    border-bottom-color: red;
+    border-bottom-width: 1px;
+    border-left-color: transparent;
+    border-right-color: transparent;
+border-top-color: transparent;
+margin-left: 15px;
+padding-right: 20px;
+}
+.costingb{
+    font-size: 26px;
+    font-weight: normal;
+    color: white;
+    background-color: transparent;
+    border-bottom-color: red;
+    border-bottom-width: 1px;
+    border-left-color: transparent;
+    border-right-color: transparent;
+border-top-color: transparent;
+margin-left: 15px;
+padding-right: 20px;
+
+}
+.buttonfind{
+    border-color: white;
+    font-size: 26px;
+    font-weight: normal;
+    color: white;
+    background-color: transparent;
+    padding-right: 23px;
+    padding-left: 23px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 8px;
+    font-family: montserrat,sans-serif;
+     
+
+}
+.categories{
+ 
+}
+.a{
+    font-weight: normal;
+    color: black;
+    background-color: transparent;
+    border-bottom-color: rgb(236, 33, 33);
+    border-bottom-width: 2px;
+    border-left-color: transparent;
+    border-right-color: transparent;
+border-top-color: transparent;
+font-size:18px;
+margin-right: -6px;
+padding-left: 18px;
+padding-right: 18px;
+}
+.b{
+    font-weight: normal;
+    color: black;
+    background-color: transparent;
+    border-bottom-color: rgb(236, 33, 33);
+    border-bottom-width: px;
+    border-left-color: transparent;
+    border-right-color: transparent;
+border-top-color: transparent;
+font-size:18px;
+margin-right: -6px;  
+  padding-left: 18px;
+padding-right: 18px;
+}
+.c{
+    font-weight: normal;
+    color: black;
+    background-color: transparent;
+    border-bottom-color: rgb(236, 33, 33);
+    border-bottom-width: 2px;
+    border-left-color: transparent;
+    border-right-color: transparent;
+border-top-color: transparent;
+font-size:18px;
+margin-right: -6px;
+padding-left: 18px;
+padding-right: 18px;
+}
+.d{
+    font-weight: normal;
+    color: black;
+    background-color: transparent;
+    border-bottom-color: rgb(236, 33, 33);
+    border-bottom-width: 2px;
+    border-left-color: transparent;
+    border-right-color: transparent;
+border-top-color: transparent;
+font-size:18px;
+margin-right: -6px;
+padding-left: 18px;
+padding-right: 18px;
+}
+.e{
+    font-weight: normal;
+    color: black;
+    background-color: transparent;
+    border-bottom-color:rgb(236, 33, 33);
+    border-bottom-width: 2px;
+    border-left-color: transparent;
+    border-right-color: transparent;
+border-top-color: transparent;
+font-size:18px;
+margin-right: -6px;
+padding-left: 18px;
+padding-right: 18px;
+}
+.f{
+    font-weight: normal;
+    color: black;
+    background-color: transparent;
+    border-bottom-color:rgb(236, 33, 33);
+    border-bottom-width: 2px;
+    border-left-color: transparent;
+    border-right-color: transparent;
+border-top-color: transparent;
+font-size:18px;
+margin-right: -6px;
+padding-left: 18px;
+padding-right: 18px;
+}
+.g{
+    font-size:18px;
+    font-weight: normal;
+    color: black;
+    background-color: transparent;
+    border-bottom-color: rgb(236, 33, 33);
+    border-bottom-width: 2px;
+    border-left-color: transparent;
+    border-right-color: transparent;
+border-top-color: transparent;
+font-size:18px;
+margin-right: -6px;
+padding-left: 18px;
+padding-right: 18px;
+}
+.cars{
+    margin-top: 110px;
+}
+.car1{
+    background-color: transparent;
+    border: transparent;
+    font-family: source sans pro,sans-serif;
+    color: #313131;
+    margin-left: 105px;
+}
+.car2{
+    background-color: transparent;
+    border: transparent;
+    font-family: source sans pro,sans-serif;
+    color: #313131;
+    margin-left: 113px;
+}
+.car3{
+    background-color: transparent;
+    border: transparent;
+    font-family: source sans pro,sans-serif;
+    color: #313131;
+    margin-left: 113px;
+}
+.located{
+    margin-left: 586px;
+    margin-top: -216px;
+   
+}
+.locateb{
+    margin-left: 586px;
+    margin-top: -216px;
+   
+}
+.locate1
+{
+    border-top-color: transparent;
+    border-left-color: transparent;
+    border-bottom-color: transparent;
+    margin-left: 133px;
+    margin-top: 20px;
+    background-color: #FFFFFF;
+    padding-left: -29px;
+    padding-top: 72px;
+    padding-right: 126px;
+    padding-bottom: 88px;
+    padding-left: 30px;
+
+}
+
+.locate2{
+    border-bottom-color: transparent;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    margin-left: 133px;
+    margin-top: 20px;
+    background-color: #FFFFFF;
+    padding-left: -29px;
+    padding-top: 72px;
+    padding-right: 126px;
+    padding-bottom: 88px;
+    padding-left: 30px;
+
+}
+.locate3{
+    border-bottom-color: transparent;
+    border-left-color: transparent;
+    margin-left: 133px;
+    margin-top: 20px;
+    background-color: #FFFFFF;
+    padding-left: -29px;
+    padding-top: 72px;
+    padding-right: 135px;
+    padding-bottom: 88px;
+    padding-left: 30px;
+
+}
+.locate4{
+    border-right-color: transparent;
+    border-bottom-color: transparent;
+    margin-left: 133px;
+    margin-top: 20px;
+    background-color: #FFFFFF;
+    padding-left: -29px;
+    padding-top: 72px;
+    padding-right: 126px;
+    padding-bottom: 88px;
+    padding-left: 30px;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+}
